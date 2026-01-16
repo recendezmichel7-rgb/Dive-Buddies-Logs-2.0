@@ -1,0 +1,5 @@
+{
+  "name": "ScubaLog Pro - Dive Dashboard",
+  "description": "A high-performance dive logging dashboard that syncs directly with Google Sheets. Features date-based filtering, performance statistics, and condition insights.",
+  "requestFramePermissions": []
+}
